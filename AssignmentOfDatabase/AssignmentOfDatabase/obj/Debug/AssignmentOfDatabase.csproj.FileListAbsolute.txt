@@ -1,0 +1,11 @@
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\AssignmentOfDatabase\AssignmentOfDatabase\bin\Debug\AssignmentOfDatabase.exe.config
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\AssignmentOfDatabase\AssignmentOfDatabase\bin\Debug\AssignmentOfDatabase.exe
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\AssignmentOfDatabase\AssignmentOfDatabase\bin\Debug\AssignmentOfDatabase.pdb
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\AssignmentOfDatabase\AssignmentOfDatabase\obj\Debug\AssignmentOfDatabase.csprojResolveAssemblyReference.cache
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\AssignmentOfDatabase\AssignmentOfDatabase\obj\Debug\AssignmentOfDatabase.ItemUI.resources
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\AssignmentOfDatabase\AssignmentOfDatabase\obj\Debug\AssignmentOfDatabase.Properties.Resources.resources
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\AssignmentOfDatabase\AssignmentOfDatabase\obj\Debug\AssignmentOfDatabase.csproj.GenerateResource.Cache
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\AssignmentOfDatabase\AssignmentOfDatabase\obj\Debug\AssignmentOfDatabase.exe
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\AssignmentOfDatabase\AssignmentOfDatabase\obj\Debug\AssignmentOfDatabase.pdb
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\AssignmentOfDatabase\AssignmentOfDatabase\obj\Debug\AssignmentOfDatabase.CustomerUi.resources
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\AssignmentOfDatabase\AssignmentOfDatabase\obj\Debug\AssignmentOfDatabase.OrderUi.resources
